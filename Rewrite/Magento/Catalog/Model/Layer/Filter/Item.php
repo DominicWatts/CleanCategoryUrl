@@ -27,8 +27,7 @@ class Item extends \Magento\Catalog\Model\Layer\Filter\Item
     protected $_htmlPagerBlock;
 
     /**
-     * Undocumented variable
-     * @var [type]
+     * @var Magento\Catalog\Helper\Category
      */
     protected $helper;
 
