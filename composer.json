@@ -1,0 +1,32 @@
+{
+    "name": "xigen/module-cleancategoryurl",
+    "description": "Layered navigation category URLs to go to child category instead of applying filter - cleaner URLs",
+    "type": "magento2-module",
+    "license": "OSL-3.0",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Dominic Xigen",
+            "email": "xigen.dominic@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://repo.magento.com/"
+        }
+    ],
+    "require": {
+        "magento/framework": "*",
+        "magento/module-catalog": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Xigen\\CleanCategoryUrl\\": ""
+        },
+        "files": [
+            "registration.php"
+        ]
+    }
+}
