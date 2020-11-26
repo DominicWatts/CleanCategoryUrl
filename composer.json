@@ -1,5 +1,5 @@
 {
-    "name": "xigen/module-cleancategoryurl",
+    "name": "dominicwatts/cleancategoryurl",
     "description": "Layered navigation category URLs to go to child category instead of applying filter - cleaner URLs",
     "type": "magento2-module",
     "license": "OSL-3.0",
