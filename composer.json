@@ -1,6 +1,6 @@
 {
     "name": "dominicwatts/cleancategoryurl",
-    "description": "Layered navigation category URLs to go to child category instead of applying filter - cleaner URLs",
+    "description": "Magento 2 Layered navigation category URLs to go to child category instead of applying filter - cleaner category URLs",
     "type": "magento2-module",
     "license": "OSL-3.0",
     "version": "1.0.0",
